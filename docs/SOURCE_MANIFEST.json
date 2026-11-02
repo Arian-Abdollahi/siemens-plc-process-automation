@@ -1,0 +1,48 @@
+{
+  "project": "siemens-plc-process-automation",
+  "original_files": [
+    {
+      "source_name": "PLC-1.pdf",
+      "path": "ladder/01_traffic_signals.pdf",
+      "bytes": 134550,
+      "sha256": "08c781ac0d1aacf68b19f24daeb7cb603666d2426c26c05694bc7f4faa39d455"
+    },
+    {
+      "source_name": "PLC-2.pdf",
+      "path": "ladder/02_height_based_box_sorting.pdf",
+      "bytes": 139279,
+      "sha256": "564b1308e88901ca306294af6d5325351998381c1712cf4ab8de7fbf68b39e74"
+    },
+    {
+      "source_name": "plc-3.pdf",
+      "path": "ladder/03_conveyor_actuator_sequence.pdf",
+      "bytes": 137315,
+      "sha256": "4b3f66cbeda290b64a5c54e25f37939ce230dfe322acd6ed138e5ced597f04eb"
+    },
+    {
+      "source_name": "PLC-4.pdf",
+      "path": "ladder/04_motor_temperature_logic.pdf",
+      "bytes": 148225,
+      "sha256": "3937f465ea99053d300a63d4b715a3c091a9e1cc1ec0a43f4644c333e027316f"
+    }
+  ],
+  "report": {
+    "source_name": "گزارش.pdf",
+    "source_sha256": "4a859bb459da52a00f4d12374d4986c9fe135afe49c04e3c12b8e51c8643ed5e",
+    "source_pages_one_based": [
+      9,
+      16
+    ],
+    "source_cover_and_combined_contents_omitted": true
+  },
+  "unavailable_attachment": {
+    "name": "Industrial_Control(1).pdf",
+    "read_or_used": false
+  },
+  "videos": {
+    "supplied_files": 0,
+    "prepared_slots": 4,
+    "status": "awaiting_upload"
+  },
+  "runtime": "Circuit/PLC applications were not available; source materials were reviewed without new simulation."
+}

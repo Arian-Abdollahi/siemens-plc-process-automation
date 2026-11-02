@@ -1,0 +1,34 @@
+[
+  {
+    "id": "01_traffic_signals",
+    "title": "Two-direction traffic signals",
+    "suggested_filename": "01_traffic_signals.mp4",
+    "repository_path": null,
+    "video_url": null,
+    "status": "awaiting_upload"
+  },
+  {
+    "id": "02_height_based_box_sorting",
+    "title": "Height-based box sorting",
+    "suggested_filename": "02_height_based_box_sorting.mp4",
+    "repository_path": null,
+    "video_url": null,
+    "status": "awaiting_upload"
+  },
+  {
+    "id": "03_conveyor_actuator_sequence",
+    "title": "Conveyor and actuator sequencing",
+    "suggested_filename": "03_conveyor_actuator_sequence.mp4",
+    "repository_path": null,
+    "video_url": null,
+    "status": "awaiting_upload"
+  },
+  {
+    "id": "04_motor_temperature_logic",
+    "title": "Motor sequencing and temperature output logic",
+    "suggested_filename": "04_motor_temperature_logic.mp4",
+    "repository_path": null,
+    "video_url": null,
+    "status": "awaiting_upload"
+  }
+]

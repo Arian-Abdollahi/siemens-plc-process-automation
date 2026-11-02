@@ -1,0 +1,10 @@
+* text=auto
+*.md text eol=lf
+*.json text eol=lf
+*.ct binary
+*.pdf binary
+*.jpg binary
+*.png binary
+*.mp4 binary
+*.mov binary
+*.webm binary
